@@ -23,7 +23,7 @@ Welcome to the official documentation for Core Editor, the all-in-one metaverse 
 
 <!-- vale Google.Acronyms = YES -->
 
-### Ready to get started? [Create your first game](getting_started/start.md)
+### Ready to get started? [Create your first game and get paid massively](getting_started/start.md)
 
 ## Organization of the Documentation
 
